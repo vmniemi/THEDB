@@ -1,0 +1,24 @@
+{
+  "name": "thedb",
+  "version": "1.0.0",
+  "description": "Personal db for all kinds of things",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmniemi/THEDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vmniemi/THEDB/issues"
+  },
+  "homepage": "https://github.com/vmniemi/THEDB#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  }
+}

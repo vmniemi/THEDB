@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TheDB</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>TheDB</h1>
+    <p>Quick meanings database</p>
+  </header>
+
+  <main>
+
+   
+    <input id="searchInput" type="text" placeholder="Search for stuff" />
+
+    <div id="categoryButtons"></div>
+ <button onclick="showRandom()">Random from all</button>
+<button onclick="showRandomFromSelectedCategory()">Random from selected category</button>
+
+    <div id="entries"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

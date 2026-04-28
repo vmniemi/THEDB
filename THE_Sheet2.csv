@@ -1,0 +1,20 @@
+id,category,title,shortMeaning,tags,description
+rose-tattoo,tattoos,Rose,"""Love, beauty, passion, or loss""","""love,beauty,classic""","A rose tattoo often represents love and beauty, but it can also symbolize grief, remembrance, or personal growth depending on color and design"
+anchor-tattoo,tattoos,Anchor,"""Stability, hope, grounding""","""stability,hope,nautical""","Anchor tattoos are commonly associated with stability and staying grounded, often used by sailors as a symbol of safety and hope."
+snake-tattoo,tattoos,Snake,"""Transformation, rebirth, danger""","""rebirth,transformation,danger""","Snakes symbolize transformation and renewal due to shedding their skin, but can also represent danger or temptation"
+butterfly-tattoo,tattoos,Butterfly,"""Change, freedom, growth""","""change,freedom,growth""","Butterflies are a common symbol of personal transformation, growth, and freedom, often tied to life changes."
+lion-tattoo,tattoos,Lion,"""Courage, strength, leadership""","""strength,courage,leadership""","Lion tattoos represent bravery, power, and leadership, often chosen to symbolize inner strength."
+,
+,
+,
+,
+murphy-law,everyday laws,Murphy’s Law,Anything that can go wrong will go wrong,"failure,planning,humor",Murphy’s Law highlights how things tend to fail at the worst possible moment. It’s often used to explain bad luck or why planning for errors is important.
+parkinson-law,everyday laws,Parkinson’s Law,Work expands to fill the time available,"productivity,time,work","If you give yourself a week to finish a task, it will take a week—even if it could be done in a day. Deadlines strongly affect productivity."
+pareto-principle,everyday laws,Pareto Principle(80/20),80% of results come from 20% of effort,"productivity,efficiency,business","A small portion of inputs often produces most of the results. Commonly used in business, productivity, and problem-solving."
+occam-razor,everyday laws,Occam’s Razor,The simplest explanation is usually correct,"logic,decision-making,thinking","When faced with multiple explanations, the one with the fewest assumptions is most likely to be true."
+hanlon-razor,everyday laws,Hanlon’s Razor,Don’t attribute to malice what can be explained by stupidity,"psychology,judgment,thinking",People often assume bad intent when mistakes are more likely due to ignorance or error.
+hofstadter-law,everyday laws,Hofstadter’s Law,Everything takes longer than you expect,"time,planning,productivity","Even when accounting for delays, tasks tend to take more time than planned."
+Goodhart-law,everyday laws,Goodhart’s Law,"When a measure becomes a target, it stops being useful","metrics,systems,business",Metrics lose meaning when people optimize specifically for them instead of the actual goal.
+cunningham-law,everyday laws,Cunningham’s Law,The best way to get the right answer is to post the wrong one,"internet,behavior,knowledge","On the internet, incorrect statements often get corrected faster than questions get answered."
+peter-principle,everyday laws,Peter Principle,People are promoted to their level of incompetence,"work,management,organizations",Employees tend to rise until they reach a role where they are no longer competent.
+diminishing-returns-law,everyday laws,Law of Diminishing Returns,More effort yields smaller gains over time,"economics,efficiency,optimization","After a certain point, adding more effort or resources produces progressively less benefit."

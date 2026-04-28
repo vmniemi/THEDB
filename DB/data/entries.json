@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rose-tattoo",
+    "category": "tattoos",
+    "title": "Rose",
+    "shortMeaning": "Love, beauty, passion, or loss",
+    "description": "A rose tattoo often represents love and beauty, but it can also symbolize grief, remembrance, or personal growth depending on color and design",
+    "tags": [
+      "love",
+      "beauty",
+      "classic"
+    ]
+  },
+  {
+    "id": "anchor-tattoo",
+    "category": "tattoos",
+    "title": "Anchor",
+    "shortMeaning": "Stability, hope, grounding",
+    "description": "Anchor tattoos are commonly associated with stability and staying grounded, often used by sailors as a symbol of safety and hope.",
+    "tags": [
+      "stability",
+      "hope",
+      "nautical"
+    ]
+  },
+  {
+    "id": "snake-tattoo",
+    "category": "tattoos",
+    "title": "Snake",
+    "shortMeaning": "Transformation, rebirth, danger",
+    "description": "Snakes symbolize transformation and renewal due to shedding their skin, but can also represent danger or temptation",
+    "tags": [
+      "rebirth",
+      "transformation",
+      "danger"
+    ]
+  },
+  {
+    "id": "butterfly-tattoo",
+    "category": "tattoos",
+    "title": "Butterfly",
+    "shortMeaning": "Change, freedom, growth",
+    "description": "Butterflies are a common symbol of personal transformation, growth, and freedom, often tied to life changes.",
+    "tags": [
+      "change",
+      "freedom",
+      "growth"
+    ]
+  },
+  {
+    "id": "lion-tattoo",
+    "category": "tattoos",
+    "title": "Lion",
+    "shortMeaning": "Courage, strength, leadership",
+    "description": "Lion tattoos represent bravery, power, and leadership, often chosen to symbolize inner strength.",
+    "tags": [
+      "strength",
+      "courage",
+      "leadership"
+    ]
+  }, 
+  {
+    "id": "murphy-law",
+    "category": "everyday laws",
+    "title": "Murphy’s Law",
+    "shortMeaning": "Anything that can go wrong will go wrong",
+    "description": "Murphy’s Law highlights how things tend to fail at the worst possible moment. It’s often used to explain bad luck or why planning for errors is important.",
+    "tags": [
+      "failure",
+      "planning",
+      "humor"
+    ]
+  },
+  {
+    "id": "parkinson-law",
+    "category": "everyday laws",
+    "title": "Parkinson’s Law",
+    "shortMeaning": "Work expands to fill the time available",
+    "description": "If you give yourself a week to finish a task, it will take a week—even if it could be done in a day. Deadlines strongly affect productivity.",
+    "tags": [
+      "productivity",
+      "time",
+      "work"
+    ]
+  },
+  {
+    "id": "pareto-principle",
+    "category": "everyday laws",
+    "title": "Pareto Principle(80/20)",
+    "shortMeaning": "80% of results come from 20% of effort",
+    "description": "A small portion of inputs often produces most of the results. Commonly used in business, productivity, and problem-solving.",
+    "tags": [
+      "productivity",
+      "efficiency",
+      "business"
+    ]
+  },
+  {
+    "id": "occam-razor",
+    "category": "everyday laws",
+    "title": "Occam’s Razor",
+    "shortMeaning": "The simplest explanation is usually correct",
+    "description": "When faced with multiple explanations, the one with the fewest assumptions is most likely to be true.",
+    "tags": [
+      "logic",
+      "decision-making",
+      "thinking"
+    ]
+  },
+  {
+    "id": "hanlon-razor",
+    "category": "everyday laws",
+    "title": "Hanlon’s Razor",
+    "shortMeaning": "Don’t attribute to malice what can be explained by stupidity",
+    "description": "People often assume bad intent when mistakes are more likely due to ignorance or error.",
+    "tags": [
+      "psychology",
+      "judgment",
+      "thinking"
+    ]
+  },
+  {
+    "id": "hofstadter-law",
+    "category": "everyday laws",
+    "title": "Hofstadter’s Law",
+    "shortMeaning": "Everything takes longer than you expect",
+    "description": "Even when accounting for delays, tasks tend to take more time than planned.",
+    "tags": [
+      "time",
+      "planning",
+      "productivity"
+    ]
+  },
+  {
+    "id": "Goodhart-law",
+    "category": "everyday laws",
+    "title": "Goodhart’s Law",
+    "shortMeaning": "When a measure becomes a target, it stops being useful",
+    "description": "Metrics lose meaning when people optimize specifically for them instead of the actual goal.",
+    "tags": [
+      "metrics",
+      "systems",
+      "business"
+    ]
+  },
+  {
+    "id": "cunningham-law",
+    "category": "everyday laws",
+    "title": "Cunningham’s Law",
+    "shortMeaning": "The best way to get the right answer is to post the wrong one",
+    "description": "On the internet, incorrect statements often get corrected faster than questions get answered.",
+    "tags": [
+      "internet",
+      "behavior",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "peter-principle",
+    "category": "everyday laws",
+    "title": "Peter Principle",
+    "shortMeaning": "People are promoted to their level of incompetence",
+    "description": "Employees tend to rise until they reach a role where they are no longer competent.",
+    "tags": [
+      "work",
+      "management",
+      "organizations"
+    ]
+  },
+  {
+    "id": "diminishing-returns-law",
+    "category": "everyday laws",
+    "title": "Law of Diminishing Returns",
+    "shortMeaning": "More effort yields smaller gains over time",
+    "description": "After a certain point, adding more effort or resources produces progressively less benefit.",
+    "tags": [
+      "economics",
+      "efficiency",
+      "optimization"
+    ]
+  }
+]
